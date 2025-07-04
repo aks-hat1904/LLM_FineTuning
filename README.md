@@ -1,4 +1,4 @@
-#*Fine Tuning Tiny-Llama using LoRA*
+## Fine Tuning Tiny-Llama using LoRA
 
 
 In this project, I fine tuned a [TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) for [OpenAI gsm8k](https://github.com/openai/grade-school-math)
